@@ -1,3 +1,4 @@
+const nodemon = require('nodemon');
 const express = require('express');
 const routes = require('./routes');
 const app = express();

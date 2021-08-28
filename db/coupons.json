@@ -1,0 +1,34 @@
+[
+  {
+    "code": "c6656ef0-3",
+    "date": "2021/08/28 23:10:14",
+    "isRedeem": false
+  },
+  {
+    "code": "c0a5fb76-e",
+    "date": "2021/08/28 23:10:15",
+    "isRedeem": false
+  },
+  {
+    "code": "test",
+    "date": "2021/08/28 23:10:15",
+    "isRedeem": true
+  },
+  {
+    "code": "97030e1b-6",
+    "date": "2021/08/28 23:10:16",
+    "isRedeem": true
+  },
+  {
+    "code": "808b0c36-e",
+    "date": "2021/08/28 23:10:17",
+    "isRedeem": false
+  },
+  {
+    "code": "a8c999a6-5",
+    "date": "2021/08/28 23:10:17",
+    "isRedeem": false
+  },
+  null,
+  null
+]

@@ -65,12 +65,3 @@ module.exports = {
     deleteUser,
     add
 }
-
-
-
-
-
-
-
-
-
